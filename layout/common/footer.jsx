@@ -9,6 +9,7 @@ class Footer extends Component {
             siteUrl,
             siteTitle,
             siteYear,
+            author,
             links,
             showVisitorCounter,
             visitorCounterTitle
@@ -33,7 +34,8 @@ class Footer extends Component {
                             {footerLogo}
                         </a>
                         <p class="is-size-7">
-                            <span>Copyright</span><span dangerouslySetInnerHTML={{ __html: `&copy; ${siteYear}` }}></span><span>Qvsijia. ALL rights reserved.</span>
+                            <span dangerouslySetInnerHTML={{ __html: `&copy; ${siteYear} ${author || siteTitle}` }}></span>
+                            &nbsp;&nbsp;Powered by <a href="https://www.qvsijia.com/" target="_blank" rel="noopener">Qvsijia</a>
                             {showVisitorCounter ? <br /> : null}
                             {showVisitorCounter ? <span id="busuanzi_container_site_uv"
                                 dangerouslySetInnerHTML={{ __html: visitorCounterTitle }}></span> : null}
