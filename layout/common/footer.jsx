@@ -33,6 +33,13 @@ class Footer extends Component {
                         <a class="footer-logo is-block mb-2" href={siteUrl}>
                             {footerLogo}
                         </a>
+                        <p class="is-size-7">Copyright © 2022 Adobe. All rights reserved.
+                            <span>Copyright</span><span dangerouslySetInnerHTML={{ __html: `&copy; ${siteYear}` }}></span><span>Qvsijia. All rights reserved.</span>
+                            {showVisitorCounter ? <br /> : null}
+                            {showVisitorCounter ? <span id="busuanzi_container_site_uv"
+                                dangerouslySetInnerHTML={{ __html: visitorCounterTitle }}></span> : null}
+                        </p>
+{/*                        
                         <p class="is-size-7">
                             <span dangerouslySetInnerHTML={{ __html: `&copy; ${siteYear} ${author || siteTitle}` }}></span>
                             &nbsp;&nbsp;Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>&nbsp;&&nbsp;
@@ -41,6 +48,7 @@ class Footer extends Component {
                             {showVisitorCounter ? <span id="busuanzi_container_site_uv"
                                 dangerouslySetInnerHTML={{ __html: visitorCounterTitle }}></span> : null}
                         </p>
+*/}
                     </div>
                     <div class="level-end">
                         {Object.keys(links).length ? <div class="field has-addons">
