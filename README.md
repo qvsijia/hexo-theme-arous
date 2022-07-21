@@ -2,9 +2,9 @@
 <img class="not-gallery-item" height="48" src="https://ppoffice.github.io/hexo-theme-icarus/img/logo.svg">
 <br> A simple, delicate, and modern theme for the static site generator Hexo.
 <br>
-<a href="https://ppoffice.github.io/hexo-theme-icarus/">Preview</a> |
-<a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">Documentation</a> |
-<a href="https://github.com/ppoffice/hexo-theme-icarus/discussions">Discuss on GitHub</a>
+<a href="https://www.qvsijia.com/">预览</a> |
+<a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">文档</a> |
+<a href="https://github.com/qvsijia/hexo-theme-arous/discussions">在Github上讨论</a>
 <br>
 </p>
 
@@ -142,17 +142,17 @@ This project is built with
 - [Bulma](https://bulma.io/)
 
 Please refer to the [documentation](https://ppoffice.github.io/hexo-theme-icarus/categories/) and 
-[contributing guide](https://github.com/ppoffice/hexo-theme-icarus/blob/master/CONTRIBUTING.md) for implementation details.
+[contributing guide](https://github.com/qvsijia/hexo-theme-arous/blob/master/CONTRIBUTING.md) for implementation details.
 
 ## :tada: Contribute
 
 If you feel like to help us build a better Icarus, you can
 
-:black_nib: [Submit a tutorial](https://github.com/ppoffice/hexo-theme-icarus/new/site/source/_posts) |
-:earth_asia: [Add a translation](https://github.com/ppoffice/hexo-theme-icarus/tree/master/languages) |
-:triangular_flag_on_post: [Report a bug](https://github.com/ppoffice/hexo-theme-icarus/issues) |
-:electric_plug: [Suggest a new feature](https://github.com/ppoffice/hexo-theme-icarus/pulls)
+:black_nib: [Submit a tutorial](https://github.com/qvsijia/hexo-theme-arous/new/site/source/_posts) |
+:earth_asia: [Add a translation](https://github.com/qvsijia/hexo-theme-arous/tree/master/languages) |
+:triangular_flag_on_post: [Report a bug](https://github.com/qvsijia/hexo-theme-arous/issues) |
+:electric_plug: [Suggest a new feature](https://github.com/qvsijia/hexo-theme-arous/pulls)
 
 ## :memo: License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ppoffice/hexo-theme-icarus/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/qvsijia/hexo-theme-arous/blob/master/LICENSE) file for details.
