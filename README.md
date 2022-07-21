@@ -13,7 +13,7 @@
 ## :cd: Installation
 
 ```shell
-$ npm install hexo-theme-icarus
+$ npm install https://github.com/qvsijia/hexo-theme-arous/archive/refs/heads/master.tar.gz
 $ hexo config theme icarus
 ```
 
