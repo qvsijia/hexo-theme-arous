@@ -1,18 +1,18 @@
 {
-  "name": "hexo-theme-arous",
+  "name": "hexo-theme-icarus",
   "version": "5.0.1",
-  "author": "qvsijia <qvsijia@users.noreply.github.com>",
+  "author": "ppoffice <ppoffice@users.noreply.github.com>",
   "license": "MIT",
   "description": "A simple, delicate, and modern theme for Hexo",
   "keywords": [
     "hexo",
     "theme",
-    "arous"
+    "icarus"
   ],
-  "homepage": "https://www.qvsijia.com",
-  "repository": "https://github.com/qvsijia/hexo-theme-arous.git",
+  "homepage": "https://github.com/ppoffice/hexo-theme-icarus",
+  "repository": "https://github.com/ppoffice/hexo-theme-icarus.git",
   "bugs": {
-    "url": "https://github.com/qvsijia/hexo-theme-arous/issues"
+    "url": "https://github.com/ppoffice/hexo-theme-icarus/issues"
   },
   "engines": {
     "node": ">=12.4.0"
